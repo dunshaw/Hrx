@@ -1,0 +1,15 @@
+[caps]
+user = "thcpc"
+app = "/Ruby/PaicTM/testObject/app-debug.apk"
+task_id = "1539067142716005000813"
+test_id = "38"
+multiple = "false"
+test_type = "function"
+browserName = "''"
+deviceName = "MI"
+platformVersion = "6.0.1"
+platformName = "Android"
+appPackage = "paic.crm.hrxforclient"
+appActivity = ".MainActivity"
+[appium_lib]
+server_url = "http://127.0.0.1:4723/wd/hub"
